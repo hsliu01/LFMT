@@ -74,7 +74,7 @@ The generated images will be saved in `./SRimage/`.
 ## **Notice**
 - The pretrained model weights can be downloaded from the link below:
 
-🔗 [Click here to download](https://drive.google.com/drive/folders/1e6egLNUk2qidbdlIJ4YzX1z92TjiY1G6?usp=drive_link).
+🔗 [Click here to download](https://drive.google.com/drive/folders/1tehNdS68fxgDPLTINCa0IOKvewhRBeZs).
 
 ## 📖 Citation
 
