@@ -35,7 +35,7 @@ Download the datasets and place them in the `./datasets/` directory.
 
 To generate the training data, run:
 ```bash
-python Generate_Data_for_Training_aug.py
+python Generate_Data_for_Training.py
 ```
 The processed training data will be saved in `./data_for_training/`.
 
